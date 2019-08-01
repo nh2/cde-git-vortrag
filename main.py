@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-print("hello wonderful world")
+print("hello wonderful world!")
 
 print("hello 2")
 
